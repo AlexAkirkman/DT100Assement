@@ -474,27 +474,27 @@ nav ul li a:hover{
   background-position: center;
 }
 
-.aries-front   { background-image: url(Images/Aries.png); }
-.taurus-front  { background-image: url(Images/Taurus.png); }
-.gemini-front  { background-image: url(Images/Gemini.png); }
-.cancer-front  { background-image: url(Images/Cancer.png); }
-.leo-front  { background-image: url(Images/Leo.png); }
-.virgo-front  { background-image: url(Images/Virgo.png); }
-.libra-front  { background-image: url(Images/7.png); }
-.scorpio-front  { background-image: url(Images/Scorpio.png); }
-.sag-front  { background-image: url(Images/Sag.png); }
+.aries-front   { background-image: url(images/); }
+.taurus-front  { background-image: url(images/Taurus.png); }
+.gemini-front  { background-image: url(images/Gemini.png); }
+.cancer-front  { background-image: url(images/Cancer.png); }
+.leo-front  { background-image: url(images/Leo.png); }
+.virgo-front  { background-image: url(images/Virgo.png); }
+.libra-front  { background-image: url(images/7.png); }
+.scorpio-front  { background-image: url(1mages/Scorpio.png); }
+.sag-front  { background-image: url(images/Sag.png); }
 .sag-back h2{
   font-size: 3.2rem;
 }
-.cap-front  { background-image: url(Images/Cap.png); }
+.cap-front  { background-image: url(images/Cap.png); }
 .cap-back h2{
   font-size: 3.2rem;
 }
-.aqu-front  { background-image: url(Images/Aqu.png); }
+.aqu-front  { background-image: url(images/Aqu.png); }
 .aqu-back h2 {
   font-size: 3.2rem;
 }
-.pisces-front {background-image: url(Images/pisces.png);}
+.pisces-front {background-image: url(images/pisces.png);}
 
 
 .horoscopes{
