@@ -154,7 +154,7 @@ nav ul li a:hover{
 }
 
 .site-header{
-  background-image: url(Images/TaraWNP.png);
+  background-image: url(images/TaraWNP.png);
   background-position: bottom;
   background-size: cover;
   padding: 5rem;
@@ -165,7 +165,7 @@ nav ul li a:hover{
 .site-header-mask{
   position: absolute;
   inset: 0;
-  mask: url(Images/TaraC.png);
+  mask: url(images/TaraC.png);
   mask-position: bottom;
   mask-size: cover;
 }
